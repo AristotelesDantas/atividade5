@@ -1,0 +1,6 @@
+com\example\demo\Ativ5Application.class
+com\example\repository\DepartamentoRepository.class
+com\example\service\DepartamentoService.class
+com\example\repository\FuncionarioRepository.class
+com\example\entity\Departamento.class
+com\example\entity\Funcionario.class
